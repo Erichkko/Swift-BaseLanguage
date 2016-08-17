@@ -8,7 +8,7 @@
 
 import Foundation
 
-/*
+/*:
 输出:
 C: printf("Hello, World!");
 OC:NSLog(@"Hello, World!");
